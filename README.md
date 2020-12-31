@@ -1,2 +1,3 @@
-# c211-lab-00-template
-COMP 211 S21 Lab 00 template
+# Lab 00
+
+Please refer to the handout for instructions on completing this lab.
